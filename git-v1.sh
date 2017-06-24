@@ -7,7 +7,7 @@
 #
 ##################################################################################################################
 
-# echo "# Ultimate-Linux-Mint-18" >> README.md
+# echo "# openboxthemes" >> README.md
 # git init
 # git add README.md
 # git commit -m "first commit"
